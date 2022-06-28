@@ -30,4 +30,4 @@ Listed below are my skillsets.
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/OofieTheDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OofieTheDev&theme=tokyonight)](https://github.com/OofieTheDev/github-readme-stats)
