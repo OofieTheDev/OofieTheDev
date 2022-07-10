@@ -35,7 +35,7 @@
 <br /><br />
 
 ### Micellaneous
-<img align='left' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width='4%'/>
+<img align='left' src='https://cdn-icons-png.flaticon.com/512/25/25231.png' width='4%' style='color: white;'/>
 <img align='left' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png' width='4%'/>
 <br />
 <br />
