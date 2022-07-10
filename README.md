@@ -1,14 +1,12 @@
 # Hello, I'm Oofie
 
+*Developer, amateur hacker and professional procrastinator.*
+
 ## :computer: Overview
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OofieTheDev&theme=tokyonight)](https://github.com/OofieTheDev/github-readme-stats)
-
-I'm a relatively young full-stack Developer, **very** amateur hacker and ~~professional procrastinator~~.
-
-Listed below are my skillsets.
 
 ### Programming Languages
 <img align='left' src='https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png' width='4%'/> 
