@@ -1,6 +1,6 @@
 # :computer: Overview
 
-***Developer, amateur hacker and professional procrastinator.***
+*Developer, amateur hacker and professional procrastinator.*
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
 
@@ -16,6 +16,6 @@
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
 
 ### My Tools
-![My Tools](https://skillicons.dev/icons?i=linux,vscode)
+![My Tools](https://skillicons.dev/icons?i=github,linux,vscode)
 
 
