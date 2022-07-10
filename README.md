@@ -30,7 +30,9 @@ Listed below are my skillsets.
 <br />
 
 ### Micellaneous
+<img align='left' src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' width='4%'/>
 <img align='left' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png' width='4%'/>
+<br />
 <br />
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
