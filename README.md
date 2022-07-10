@@ -1,8 +1,6 @@
-# Hello, I'm Oofie
+# :computer: Overview
 
-*Developer, amateur hacker and professional procrastinator.*
-
-## :computer: Overview
+***Developer, amateur hacker and professional procrastinator.***
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
 
