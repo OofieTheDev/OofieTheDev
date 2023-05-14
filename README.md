@@ -1,4 +1,4 @@
-# :computer: Hello there, I'm Oofie
+# :computer: Overview
 
 *Developer, amateur hacker and professional procrastinator.*
 
