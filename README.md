@@ -1,4 +1,4 @@
-# :computer: Overview
+# :computer: Hello there, I'm Oofie
 
 *Developer, amateur hacker and professional procrastinator.*
 
@@ -10,7 +10,7 @@
 ![Programming Languages](https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,html,css,bash)
 
 ### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=sass,bootstrap,jquery,express,react)
+![Frameworks](https://skillicons.dev/icons?i=sass,tailwind,bootstrap,jquery,express,react)
 
 ### Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
