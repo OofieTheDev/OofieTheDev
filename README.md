@@ -1,6 +1,6 @@
 # :computer: Overview
 
-*Developer (and hopefully future student)*
+*Developer who had commitments from 2022-2024, and is now back (and hopefully future student)*
 
 ![Oofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=OofieTheDev&count_private=true&show_icons=true&theme=tokyonight)
 
